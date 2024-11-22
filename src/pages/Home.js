@@ -37,7 +37,7 @@ const Home = () => {
   return (
     <div className="home-container">
       <div className="hero-section">
-        <h1>Welcome to the Birthday Party Reservation Portal!</h1>
+        <h1>Welcome to the Birthday Party Reservation Portal!!!</h1>
         <p>
           Make your next birthday celebration memorable! Browse, book, and reserve
           the best birthday party spots right here.
